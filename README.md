@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning **Java(Spring Boot), SQL and Angular**
 
-- 📫 How to reach me **alpcanyukse24@gmail.com**
+- 📫 How to reach me **alpcanyuksel24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
